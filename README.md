@@ -45,3 +45,28 @@ Antes de começar, certifique-se de ter uma conta na AWS. Se precisar de ajuda p
 ## 🤔 Dúvidas?
 
 Esperamos que esta experiência tenha sido enriquecedora e que você tenha aprendido mais sobre Machine Learning aplicado a problemas reais. Se tiver alguma dúvida, não hesite em abrir uma issue neste repositório ou entrar em contato com a equipe da DIO.
+
+## Previsão do Modelo
+
+Efetuei e criei meu modelo no AWS SageMaker Canvas, conforme orientação do Desafio. 
+Segue abaixo um resumo da previsão do modelo utilizado nesse desafio, com Standard Build:
+
+
+
+Preview model
+Estimated Avg. wQL
+1.033
+1.033 is a non-negative metric whose lower value indicates a more accurate model.
+
+Estimated WAPE
+1.152
+
+Estimated MAPE
+0.593
+
+Estimated MASE
+0.846
+
+Estimated RMSE
+8.121
+
